@@ -8,8 +8,7 @@ A digital implementation of Settlers of Catan board game.
 
 ## Setup
 1. Clone the repository
-2. Install dependencies
-3. Start the server
-
+2. Navigate to the logic directory
+3. Run `python main.py`
 ## License
 MIT License
